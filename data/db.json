@@ -285,10 +285,10 @@
       "id": 1
     },
     {
-      "email": "alex@gmail.com",
-      "password": "$2a$10$L8A51W8X0lUXhNcnG9g1Hez6gtrmRCXFkDW5scSE9Pm69GCYVw9Xi",
-      "name": "alex",
-      "id": 3
+      "email": "chins@example.com",
+      "password": "$2a$10$Iz2KT7ceF7aD02sSjgK.X.sT6JdcXZNrwqYtlh16eh.dBegEYB2pe",
+      "name": "Chinthana",
+      "id": 2
     }
   ]
 }
